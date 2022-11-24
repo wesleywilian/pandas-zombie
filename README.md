@@ -1,6 +1,11 @@
 # pandas-zombie
 A pandas dataframe zombie game.
 
+## Controls
+- WASD = controls
+- q = exit
+- spacebar = shoot
+
 ## Run with docker
 ```shell
 # build
